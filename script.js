@@ -38,3 +38,4 @@ faqQuestions.forEach((question) => {
 
     });
 });
+
